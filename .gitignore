@@ -1,0 +1,21 @@
+---
+###
+
+```gitignore
+
+#LOGS
+*.log
+
+#Configs
+.env
+*.local
+
+#Dumps e backup de banco
+*.sql-
+*dump
+*.bak
+*.backup
+
+#Pastas da IDE
+vscode/
+.idea/
